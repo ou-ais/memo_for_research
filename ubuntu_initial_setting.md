@@ -16,10 +16,10 @@ then, reboot or logout
 $ sudo add-apt-repository ppa:mattrose/terminator
 $ sudo apt update
 $ sudo apt install terminator
-$ sudo update-alternatives --install /usr/bin/x-terminal-emulator x-terminal-emulator /usr/bin/your-terminal 1
+$ sudo update-alternatives --install /usr/bin/x-terminal-emulator x-terminal-emulator /usr/bin/terminator 1
 $ sudo update-alternatives --config x-terminal-emulator
 ```
-then, select 2
+then, select ternimator
 
 4. github
 ```bash
