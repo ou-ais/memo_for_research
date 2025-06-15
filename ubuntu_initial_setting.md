@@ -23,7 +23,7 @@ then, select ternimator
 
 4. github
 ```bash
-$ sudo apt install github
+$ sudo apt install git
 $ git config --global user.name "ou-ais"
 $ git config --global user.email "yingchangjian1008@gmail.com"
 $ ssh-keygen -t rsa -C "yingchangjian1008@gmail.com"
